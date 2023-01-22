@@ -82,4 +82,36 @@ Submission Instructions:
 
 Word count: 50-200
 Impressed by your peers’ maps? Reply to them to continue the conversation.
+--------------------------
+
+Q & A Discussion With Learning Facilitators
+-------------------------
+Do you have specific questions about a coding assignment? Did you encounter a bug that you are struggling to troubleshoot? This forum is the space to ask questions related to this module’s assignments and video content. It will be moderated by your Learning Facilitator.
+
+Learning how to accurately describe problems that you encounter is a crucial skill for any software developer. If you can provide accurate information about the issue you’re facing, you will be more likely to receive meaningful answers to your questions.
+
+Submission Instructions:
+
+Follow these best practices when posting about a challenge to this discussion forum: 
+
+Describe what you expect to happen.
+Describe what is happening instead.
+Provide detailed steps on how to reproduce what you have already done. 
+Attach screenshots or code snippets of all relevant files.
+As an example:
+
+I am trying to display a picture of myself for my GitHub portfolio website. My picture should appear below my name when I open the website. 
+Instead of seeing my picture, I see a broken image. 
+To reproduce my work, I created an index.html with an <h1> tag containing my name and an <img> tag with my photo’s file name. I uploaded these files to GitHub.
+
+ 
+ ![image](https://user-images.githubusercontent.com/105542222/213897745-78d5c06d-e933-40d6-a89b-d69fd7cbde26.png)
+ 
+ Notice that the participant included the entire folder contents in the screenshot in this example. This will help Learning Facilitators or other participants diagnose the error.
+
+You are encouraged to reply to your fellow learners to continue the conversation.
+
+
+ 
+
 
